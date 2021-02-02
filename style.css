@@ -17,7 +17,7 @@ html {
 }
 .home{
     height: 500px;
-    background-image: url('../Projet/image/world1.jpg');
+    background-image: url('../eval-html-css/image/world1.jpg');
     background-size:cover    ;
     background-position: center;
     position: relative;
@@ -68,7 +68,7 @@ html {
     color: black;
 }
 .about-img{
-    background-image: url(../Projet/image/people.jpg);
+    background-image: url(../eval-html-css/image/people.jpg);
     background-size: cover;
     height: 300px;
     margin-top: 20px;
@@ -88,7 +88,7 @@ html {
     font-family: 'Courier New', Courier, monospace;
 }
 .event-img{
-    background-image: url(../Projet/image/people1.jpg);
+    background-image: url(../eval-html-css/image/people1.jpg);
     background-size: cover;
     margin-top: 20px;
     height: 300px;
@@ -144,7 +144,7 @@ html {
 
 }
 .contact{
-    background-image: url(../Projet/image/work.jpg);
+    background-image: url(../eval-html-css/image/work.jpg);
     background-size: cover;
     font-family: 'Courier New', Courier, monospace;
 }
